@@ -11,15 +11,15 @@ PODS:
   - Firebase/Messaging (8.15.0):
     - Firebase/CoreOnly
     - FirebaseMessaging (~> 8.15.0)
-  - firebase_analytics (9.1.10):
+  - firebase_analytics (10.1.4):
     - Firebase/Analytics (= 8.15.0)
     - firebase_core
     - Flutter
-  - firebase_core (1.18.0):
+  - firebase_core (2.7.0):
     - Firebase/CoreOnly (= 8.15.0)
     - Flutter
-  - firebase_messaging (11.4.2):
-    - Firebase/Messaging (= 8.15.0)
+  - firebase_messaging (14.2.5):
+    - Firebase/Messaging (= 10.3.0)
     - firebase_core
     - Flutter
   - FirebaseAnalytics (8.15.0):
