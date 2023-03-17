@@ -32,7 +32,7 @@ PODS:
     - "GoogleUtilities/NSData+zlib (~> 7.8)"
     - nanopb (~> 2.30908.0)
   - FirebaseAnalytics/AdIdSupport (10.3.0):
-    - FirebaseCore (~> 8.0)
+    - FirebaseCore (~> 10.3.0)
     - FirebaseInstallations (~> 8.0)
     - GoogleAppMeasurement (= 8.15.0)
     - GoogleUtilities/AppDelegateSwizzler (~> 7.8)
